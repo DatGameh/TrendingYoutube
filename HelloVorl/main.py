@@ -15,3 +15,6 @@ print(f"My name is {name}, and I am {age} years old.")
 peepo = Person(name, age)
 peepo.identify()
 
+
+school = input("What school do you go to?")
+print(f"My name is {name}, and I am {age} years old. I go to the {school}.")
